@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:animated_grid/animated_grid.dart'; 
+import 'package:flutter_animated_grid/flutter_animated_grid.dart';
+
 
 void main() {
   runApp(const MyApp());

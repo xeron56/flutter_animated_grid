@@ -1,4 +1,4 @@
-# Animated Grid Package
+# Flutter Animated Grid Package
 
 [![pub.dev](https://img.shields.io/badge/pub.dev-1.0.0-blue.svg)](https://pub.dev/packages/flutter_nude_checker)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -8,7 +8,7 @@ The Animated Grid package for Flutter provides a customizable and visually appea
 ## Preview
 
 <div align="center">
-  <img src="animation.gif" alt="Animated Grid Preview" style="max-width: 600px; width: 20%; height: auto; border-radius: 8px;" />
+  <img src="animation.gif" alt="Animated Grid Preview" style="max-width: 600px; width: 50%; height: auto; border-radius: 8px;" />
 </div>
 
 ## Features
@@ -28,7 +28,7 @@ The Animated Grid package for Flutter provides a customizable and visually appea
 
     ```yaml
     dependencies:
-      animated_grid: ^1.0.0 
+      flutter_animated_grid: ^1.0.0 
     ```
 
     Then, run `flutter pub get` in your terminal.
@@ -100,7 +100,7 @@ The `AnimatedGrid` widget offers numerous customization options.  See the table 
 
 ## Contributing
 
-We welcome contributions! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request on our [GitHub repository](https://github.com/xeron56/animated_grid).
+We welcome contributions! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request on our [GitHub repository](https://github.com/xeron56/flutter_animated_grid).
 
 ## TODO
 

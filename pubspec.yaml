@@ -1,7 +1,7 @@
-name: animated_grid
+name: flutter_animated_grid
 description: The Animated Grid package for Flutter provides a customizable and visually appealing animated grid layout.
 version: 1.0.0
-homepage: https://github.com/xeron56/animated_grid
+homepage: https://github.com/xeron56/flutter_animated_grid
 
 topics:
   - flutter

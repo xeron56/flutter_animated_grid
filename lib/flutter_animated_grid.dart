@@ -1,4 +1,4 @@
-library animated_grid;
+library flutter_animated_grid;
 
 import 'dart:ui';
 
